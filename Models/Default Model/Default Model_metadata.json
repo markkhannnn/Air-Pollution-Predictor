@@ -1,0 +1,15 @@
+{
+    "model_name": "CNN_LSTM_DEFAULT",
+    "features": [
+        "co",
+        "nh3",
+        "no2",
+        "o3",
+        "pm10",
+        "pm25",
+        "so2"
+    ],
+    "timesteps": 24,
+    "num_features": 7,
+    "model_type": "deep_learning"
+}
