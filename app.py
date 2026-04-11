@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-
 from backend.api_service import fetch_openaq_latest, build_sequence_dataframe
 from backend.prediction_service import predict_with_model
 from backend.model_manager import list_available_models
@@ -10,12 +9,6 @@ st.set_page_config(
     page_title="Air Pollution Forecasting System",
     layout="wide"
 )
-
-
-
-
-
-
 # ---------------- SIDEBAR NAVIGATION ---------------- #
 
 st.sidebar.title("System Navigation")
@@ -26,7 +19,6 @@ page = st.sidebar.radio(
 
 st.title("Air Pollution Prediction System")
 st.markdown("---")
-
 
 # ---------------- QUICK MODE ---------------- #
 
