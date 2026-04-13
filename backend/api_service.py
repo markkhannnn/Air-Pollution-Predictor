@@ -1,7 +1,6 @@
 import requests
 import pandas as pd
 
-API_KEY = "b7f3db3e4dc135c585bea4e7f6cee4ba2252a688e99f17800ef85c9547258383"
 
 
 POLLUTANT_MAPPING = {
