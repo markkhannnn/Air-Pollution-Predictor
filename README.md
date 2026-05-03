@@ -48,6 +48,6 @@ Paper on Comparision of various models : https://archive.org/details/mark-khan-r
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/Air-Pollution-Predictor.git
+git clone https://github.com/markkhannnn/Air-Pollution-Predictor.git
 cd Air-Pollution-Predictor
 pip install -r requirements.txt
