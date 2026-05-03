@@ -43,7 +43,7 @@ The dataset contains historical air pollution data such as PM2.5, PM10, NO₂, C
 
 ---
 
-Paper on Comparision of various models : https://archive.org/details/mark-khan-paper
+Paper on Comparision of various models : https://archive.org/details/mark-khan-research-paper
 
 ## ⚙️ Installation
 
